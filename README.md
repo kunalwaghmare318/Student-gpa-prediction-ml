@@ -35,6 +35,7 @@ Model 2
 R² = 0.064 (after removing Pre Semester GPA)
 
 **Key Findings**
+
 1.Previous GPA is the strongest predictor.
 
 2.Model generalizes well.
