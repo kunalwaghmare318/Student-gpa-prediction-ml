@@ -5,6 +5,7 @@ Overview
 Built a Multiple Linear Regression model to predict students' post-semester GPA using academic performance, AI usage, and behavioral factors.
 
 #Dataset
+
 50,000 student records
 Kaggle
 Impact of AI on Students
