@@ -4,7 +4,7 @@ Overview
 
 Built a Multiple Linear Regression model to predict students' post-semester GPA using academic performance, AI usage, and behavioral factors.
 
-#Dataset
+**Dataset**
 
 50,000 student records
 
@@ -12,7 +12,7 @@ Kaggle
 
 Impact of AI on Students
 
-#Technologies
+**Technologies**
 
 Python
 
@@ -24,7 +24,7 @@ Scikit-learn
 
 Google Colab
 
-#Results
+**Results**
 
 Model 1
 
@@ -34,11 +34,10 @@ Model 2
 
 R² = 0.064 (after removing Pre Semester GPA)
 
-#Key Findings
+**Key Findings**
+1.Previous GPA is the strongest predictor.
 
-Previous GPA is the strongest predictor.
+2.Model generalizes well.
 
-Model generalizes well.
-
-Feature comparison highlights the importance of feature selection.
+3.Feature comparison highlights the importance of feature selection.
 
